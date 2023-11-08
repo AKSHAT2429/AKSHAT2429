@@ -25,11 +25,6 @@
 * Data Science Intern at Indian Space Research Organization, Jodhpur, India 🇮🇳
 * Teaching Assistant - Machine Learning Course 👨‍🏫
 
-### Award-Winning Achievements 🏆
-
-* Presented research at prestigious conferences and workshops 🗣️
-* Received accolades for academic excellence ✨
-
 ### A Passionate and Driven Data Scientist 🚀🚀🚀
 
 * Always eager to learn and take on new challenges 💪
@@ -38,7 +33,6 @@
 
 ### Elevate Your Data Science Expertise with Akshat 🚀🚀🚀
 
-* Hire him as a Data Scientist or Consultant 📊
 * Collaborate with him on research projects 🗣️
 * Follow him on LinkedIn for insightful updates [🔗]( https://www.linkedin.com/in/akshatagrawal1729)
 
